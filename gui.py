@@ -9,7 +9,7 @@ from PIL import ImageTk, Image
 import numpy as np 
 import cv2
 
-model = load_model(r'model.h5')
+model = load_model('model.keras')
 
 def mouth_detection():
     
