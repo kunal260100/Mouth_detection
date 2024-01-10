@@ -6,5 +6,6 @@ seaborn
 streamlit
 Pillow
 opencv-python
+opencv-python-headless
 tensorflow
 keras
