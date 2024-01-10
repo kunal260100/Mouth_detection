@@ -8,4 +8,4 @@ Pillow
 opencv-python
 tensorflow
 keras
-libtk8.6
+libtk
