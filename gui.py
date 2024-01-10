@@ -18,7 +18,7 @@ def mouth_detection():
     return model
 
 top = tk.Tk()
-top.geometry('640x480')
+top.geometry('256x256')
 top.title('Mouth Detector')
 
 label1 = Label(top, background='#CDCDCD', font=('arial',15,'bold'))
