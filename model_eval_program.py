@@ -12,7 +12,7 @@ from keras.models import load_model
 
 ##### Importing model
 
-model = load_model('model.h5')
+model = load_model('model.keras')
 
 
 ###### Loading data
