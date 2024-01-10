@@ -17,7 +17,7 @@ model = load_model(r'model.h5')
 
 ###### Loading data
 
-data = '/home/kunal/CNN/mouth'
+data = 'mouth'
 
 parse = keras.utils.image_dataset_from_directory(data)
 
